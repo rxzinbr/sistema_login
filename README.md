@@ -1,4 +1,4 @@
-# sistema_login
+# SISTEMA DE LOGIN
 Desenvolvimento de um Sistema de Login - Linguagem C
 
 

@@ -69,7 +69,7 @@ O projeto foi desenvolvido de forma simples, adequado para estudantes iniciantes
 No terminal (Linux, macOS ou Windows com MinGW):
 
 ```bash
-gcc -o portal src/main.c -lm
+gcc -o main-code src/main.c -lm
 ./portal
 ```
 
